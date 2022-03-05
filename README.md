@@ -1,1 +1,3 @@
 # gopen-id-connect
+OpenIdConnectのAuthorizationServer
+
